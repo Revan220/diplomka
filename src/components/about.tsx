@@ -20,7 +20,7 @@ import React from "react";
             <div>
               <Image
                 alt="Фитнес центр"
-                src="https://img.heroui.chat/image/sports?w=600&h=400&u=1"
+                src="https://fitness-palace.kz/wp-content/uploads/2019/08/%D0%A2%D0%97_1-1024x683.jpg"
                 className="rounded-lg object-cover w-full h-[300px]"
               />
             </div>
@@ -49,7 +49,7 @@ import React from "react";
             <div>
               <Image
                 alt="Групповые тренировки"
-                src="https://img.heroui.chat/image/sports?w=600&h=400&u=2"
+                src="https://alexfitness.ru/assets/images/fitguide/gruppovie-trenirovki.jpg"
                 className="rounded-lg object-cover w-full h-[300px]"
               />
             </div>
