@@ -7,7 +7,7 @@ HeroUI Chat — это современный, минималистичный и
 
 | Категория       | Технологии            |
 | --------------- | --------------------- |
-| Языки           | JavaScript, HTML, CSS |
+| Языки           | JavaScript, HTML, CSS, TypeScript |
 | Фреймворк       | React                 |
 | Сборщик проекта | Vite                  |
 | Стилизация      | Tailwind CSS          |
