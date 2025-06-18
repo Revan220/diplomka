@@ -46,7 +46,7 @@ const trainerServices: TrainerService[] = [
     price: 10000,
     category: "personal",
     status: "active",
-    image: "https://img.heroui.chat/image/sports?w=400&h=300&u=3"
+    image: "https://skyfitness.ua/wp-content/uploads/2019/09/47510994_l-1.jpg"
   },
   {
     id: "2",
@@ -66,7 +66,7 @@ const trainerServices: TrainerService[] = [
     price: 5000,
     category: "group",
     status: "active",
-    image: "https://img.heroui.chat/image/sports?w=400&h=300&u=4"
+    image: "https://lh4.googleusercontent.com/GHbMP-5FaU-ZUsfqrqwWROvB7dWi_OfdMs8L8wVPi94-L9ajMz0L2Bt9V36HPxlTFs9egugcaY2tSnnwuLsKtJSUmc2_hN6k3a4tk2LadHmzhcexDbV6F7YvhtlSNCxbOp9-WGf3H3YkmVPO9KvBDQ"
   },
   {
     id: "4",
@@ -76,7 +76,7 @@ const trainerServices: TrainerService[] = [
     price: 10000,
     category: "personal",
     status: "active",
-    image: "https://img.heroui.chat/image/sports?w=400&h=300&u=5"
+    image: "https://sst.by/assets/images/news/9944/0ae9eff7282eac20a36edf0a966debbb.webp"
   },
   {
     id: "5",
@@ -86,7 +86,7 @@ const trainerServices: TrainerService[] = [
     price: 12500,
     category: "special",
     status: "active",
-    image: "https://img.heroui.chat/image/sports?w=400&h=300&u=6"
+    image: "https://rostfit.ru/upload/images/blog/2018/2018-01-21_fitness_rehab_today/01-cover.png"
   },
   {
     id: "6",
