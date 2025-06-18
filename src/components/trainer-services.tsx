@@ -96,7 +96,7 @@ const trainerServices: TrainerService[] = [
     price: 6000,
     category: "group",
     status: "active",
-    image: "https://img.heroui.chat/image/sports?w=400&h=300&u=7"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VdTwrmSJqReusosfjYJzrKEIXoLtPtibZA&s"
   }
 ];
 
